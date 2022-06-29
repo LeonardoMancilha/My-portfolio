@@ -33,7 +33,7 @@ English: This is my portfolio to show my projects I have made throughout my care
 English: Knowing a little more about me
 - `Funcionalidade 2`: Mostrar meus projetos desenvolvidos ao longo de minha carreira como desenvolvedor Front-end. <br>
 English: Showing my projects developed throughout my career as a Front-end developer.
-- `Funcionalidade 3`: Apresentar os serviços que presto como UX Designer além de Desenvolvedor Front-end.
+- `Funcionalidade 3`: Apresentar os serviços que presto como UX Designer além de Desenvolvedor Front-end. <br>
 English: Introducing the services I provide as a UX Designer in addition to Front-end Developer.
 - `Funcionalidade 4`: Mostrar minhas hard-skills que adquiri desde de meu início na área de tecnologia. <br>
 English: Showing my hard-skills that I acquired since my beginning in the technology area.
@@ -86,7 +86,7 @@ English: You can access the project files by clicking [aqui](https://github.com/
 
 ## 📝 Licença / License
 
-Portuguese: Este projeto esta sobe a licença [MIT](./LICENSE).
+Portuguese: Este projeto esta sobe a licença [MIT](./LICENSE). <br>
 English: This project is under license [MIT](./LICENSE).
 
 Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/) <br>
