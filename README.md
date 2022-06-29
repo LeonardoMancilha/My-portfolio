@@ -13,13 +13,15 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
+<!--
 <p align="center">
  <a href="#-sobre-o-projeto">Description</a> •
  <a href="#-funcionalidades">Functionalities</a> •
  <a href="#-tecnologias">Tecnologies</a> • 
- <a href="#-tecnologias">Access</a> • 
+ <a href="#-acesso">Access</a> • 
  <a href="#user-content--licença">License</a>
 </p>
+-->
 
 ## 💻 Descrição do projeto / Description of the project
 
