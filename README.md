@@ -65,7 +65,12 @@ English: Showing my hard-skills that I acquired since my beginning in the techno
 
   <img alt="Segunda Imagem" src="https://user-images.githubusercontent.com/74615811/176518356-833674c6-cdc3-4d68-9065-4aeb1146f211.png" width="400px">
   
-  <img alt="Segunda Imagem" src="https://user-images.githubusercontent.com/74615811/176518425-34102724-b263-44b1-9441-e3100f854bdc.png" width="400px">
+  <img alt="Terceira Imagem" src="https://user-images.githubusercontent.com/74615811/176541283-011af1c5-9ca4-42c4-a97d-3bef2ecd4f17.png" width="400px">
+ 
+  <img alt="Quarta Imagem" src="https://user-images.githubusercontent.com/74615811/176542422-566bca43-4ea3-4798-8351-70fe31f66036.png" width="400px">
+ 
+  <img alt="Sexta Imagem" src="https://user-images.githubusercontent.com/74615811/176541965-8e20eefe-db17-4665-a460-f4407529cbe0.png" width="400px">
+
 </p>
 
 ---
