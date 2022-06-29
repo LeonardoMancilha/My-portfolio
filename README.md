@@ -6,32 +6,37 @@
 <img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
 <img src="https://user-images.githubusercontent.com/74615811/176503364-50b5ee48-3d6d-4ab3-ae4b-e6fb7724296b.svg">
 <img src="https://user-images.githubusercontent.com/74615811/176503773-dd0bc4ec-fbde-4e70-80d6-9695ff5ef67c.svg">
+<img src="https://img.shields.io/badge/Done%20by-Leonardo Machado-%df0000">
 </p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Descrição</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-tecnologias">Acesso</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-sobre-o-projeto">Description</a> •
+ <a href="#-funcionalidades">Functionalities</a> •
+ <a href="#-tecnologias">Tecnologies</a> • 
+ <a href="#-tecnologias">Access</a> • 
+ <a href="#user-content--licença">License</a>
 </p>
 
 ## 💻 Descrição do projeto / Description of the project
 
-Portuguese: Este é meu portfólio para mostrar meus projetos que realizei ao longo da minha carreira como Desenvolvedor Front-end. Baseado no desafio 9 da comunidade Codelândia do Iuri Silva, com algumas pequenas modificações no meu estilo. <br>
+Portuguese: Este é meu portfólio para mostrar meus projetos que realizei ao longo da minha carreira como Desenvolvedor Front-end. Baseado no desafio 9 da comunidade Codelândia do Iuri Silva, com algumas pequenas modificações no meu estilo. <br> <br>
 English: This is my portfolio to show my projects I have made throughout my career as a Front-end Developer. Based on challenge 9 of the Codelândia community by Iuri Silva, with some small towns for my style.
 
 ---
 
 ## ⚙️ Funcionalidades / Functionalities
-- `Funcionalidade 1`: dddddddddddddddddddddddd
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: Conhecer um pouco mais sobre mim <br>
+English: Knowing a little more about me
+- `Funcionalidade 2`: Mostrar meus projetos desenvolvidos ao longo de minha carreira como desenvolvedor Front-end. <br>
+English: Showing my projects developed throughout my career as a Front-end developer.
+- `Funcionalidade 3`: Apresentar os serviços que presto como UX Designer além de Desenvolvedor Front-end.
+English: Introducing the services I provide as a UX Designer in addition to Front-end Developer.
+- `Funcionalidade 4`: Mostrar minhas hard-skills que adquiri desde de meu início na área de tecnologia. <br>
+English: Showing my hard-skills that I acquired since my beginning in the technology area.
 
 ---
 
@@ -66,12 +71,12 @@ English: This is my portfolio to show my projects I have made throughout my care
 ---
 
 ## Tecnologias / Tecnologies
-- ``HTML5``
-- ``CSS3``
+- ``HTML``
+- ``CSS``
 
 ## 📁 Acesso ao projeto / Access the project
 
-Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/My-portfolio/find/main).
+Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/My-portfolio/find/main). <br>
 English: You can access the project files by clicking [aqui](https://github.com/LeonardoMancilha/My-portfolio/find/main).
 
 ## 📝 Licença / License
@@ -79,7 +84,9 @@ English: You can access the project files by clicking [aqui](https://github.com/
 Portuguese: Este projeto esta sobe a licença [MIT](./LICENSE).
 English: This project is under license [MIT](./LICENSE).
 
-Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/)
-English: Made with ❤️ by Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/)
+Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/) <br>
+English: Made with ❤️ by Leonardo Machado 👋🏽 [Contact me!](https://www.linkedin.com/in/leonardomancilha/)
 
 ---
+
+<p> Thank you for reading.</p>
