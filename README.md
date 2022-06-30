@@ -27,7 +27,7 @@
 
 <h2>Portuguese</h2> Este é meu portfólio para mostrar meus projetos que realizei ao longo da minha carreira como Desenvolvedor Front-end. Baseado no desafio 9 da comunidade Codelândia do Iuri Silva, com algumas pequenas modificações no meu estilo. <br>
 
-<h2>English>/h2> This is my portfolio to show my projects I have made throughout my career as a Front-end Developer. Based on challenge 9 of the Codelândia community by Iuri Silva, with some small towns for my style.
+<h2>English</h2> This is my portfolio to show my projects I have made throughout my career as a Front-end Developer. Based on challenge 9 of the Codelândia community by Iuri Silva, with some small towns for my style.
 
 ---
 
