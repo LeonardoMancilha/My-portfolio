@@ -42,7 +42,7 @@ English: Showing my hard-skills that I acquired since my beginning in the techno
 
 ---
 
-## 🎨 Layout
+## Aplicação
 
 ### Mobile
 
