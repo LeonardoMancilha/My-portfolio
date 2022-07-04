@@ -1,6 +1,6 @@
 <h1 align="center">Portfólio</h1>
 
-<img src="https://user-images.githubusercontent.com/74615811/176488172-c81cd6b2-730a-4cf1-a099-7acc906cdf6f.png">
+<img src="https://user-images.githubusercontent.com/74615811/176488172-c81cd6b2-730a-4cf1-a099-7acc906cdf6f.png" alt="Imagem do meu portfólio">
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
@@ -85,7 +85,7 @@ English: Showing my hard-skills that I acquired since my beginning in the techno
 ## 📁 Acesso ao projeto / Access the project
 
 Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/My-portfolio/find/main). <br>
-English: You can access the project files by clicking [aqui](https://github.com/LeonardoMancilha/My-portfolio/find/main).
+English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/My-portfolio/find/main).
 
 ## 📝 Licença / License
 
